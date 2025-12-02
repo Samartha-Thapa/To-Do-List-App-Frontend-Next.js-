@@ -10,8 +10,8 @@ Next.js
 
 React
 
-Tailwind CSS / ShadCN (if used)
+Tailwind CSS / ShadCN / Next Auth
 
-Axios / Fetch API
+Fetch API
 
 REST API Integration
